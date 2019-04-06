@@ -642,6 +642,9 @@
             },
             ".mbr-card-text, .mbr-section-btn": {
               "color": "#ffffff"
+            },
+            ".mbr-title": {
+              "color": "#ffffff"
             }
           },
           "_name": "features10",
@@ -936,6 +939,9 @@
                 "-webkit-justify-content": "center !important",
                 "justify-content": "center !important"
               }
+            },
+            "a:link": {
+              "color": "#cccccc"
             }
           },
           "_name": "footer3",

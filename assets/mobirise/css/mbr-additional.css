@@ -1323,6 +1323,9 @@ body {
 .cid-rmxmaXTgSm .mbr-section-btn {
   color: #ffffff;
 }
+.cid-rmxmaXTgSm .mbr-title {
+  color: #ffffff;
+}
 .cid-rmxipRDZId {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1531,6 +1534,9 @@ body {
     -webkit-justify-content: center !important;
     justify-content: center !important;
   }
+}
+.cid-rmxj4a59Im a:link {
+  color: #cccccc;
 }
 .cid-rmPLGqt6Po {
   padding-top: 15px;
